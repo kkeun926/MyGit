@@ -1,0 +1,47 @@
+.BannerWrap {
+  width: 100%;
+  height: auto;
+
+  .MainPoster {
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+    .Background {
+      width: 100%;
+      height: 100%;
+    }
+
+    .Gradient {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 9;
+      background: linear-gradient(
+        -180deg,
+        rgba(0, 0, 0, 0) 50%,
+        rgba(18, 18, 18, 0.6) 80%,
+        rgba(18, 18, 18, 0.8) 90%,
+        rgba(18, 18, 18, 1) 100%
+      );
+    }
+  }
+
+  .View {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(-50%);
+    z-index: 99;
+    p {
+      font-size: 1.4rem;
+      margin-right: 0.6rem;
+    }
+    .Back {
+      transform: scale(0.8) rotate(180deg);
+    }
+  }
+}

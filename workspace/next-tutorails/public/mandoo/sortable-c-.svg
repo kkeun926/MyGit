@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="레이어_2" data-name="레이어 2">
+    <g id="레이어_1-2" data-name="레이어 1">
+      <rect width="25" height="25" rx="2" fill="#bebebe"/>
+      <g>
+        <line x1="12.5" y1="5.13" x2="12.5" y2="19.87" fill="none" stroke="#121212" stroke-linecap="round" stroke-miterlimit="10"/>
+        <polygon points="15.54 5.54 9.46 5.54 12.5 2.5 15.54 5.54" fill="#121212"/>
+        <polygon points="15.54 19.46 9.46 19.46 12.5 22.5 15.54 19.46" fill="#121212"/>
+      </g>
+      <g>
+        <line x1="19.87" y1="12.5" x2="5.13" y2="12.5" fill="none" stroke="#121212" stroke-linecap="round" stroke-miterlimit="10"/>
+        <polygon points="19.46 15.54 19.46 9.46 22.5 12.5 19.46 15.54" fill="#121212"/>
+        <polygon points="5.54 15.54 5.54 9.46 2.5 12.5 5.54 15.54" fill="#121212"/>
+      </g>
+    </g>
+  </g>
+</svg>

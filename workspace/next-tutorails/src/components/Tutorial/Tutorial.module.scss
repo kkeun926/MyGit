@@ -1,0 +1,32 @@
+.name{
+    width: 100%;
+    height: auto;
+    background-color: #ddd;
+
+    p{font-size: 20px;}
+
+    .tutorial{
+    width: 90%;
+    margin: 0 auto;
+    height: auto;
+    background-color: #bbb;
+
+    ul{
+        width: 90%;
+        margin: 0 auto;
+
+        li{
+            width: 100%;
+            height: 40px;
+            line-height: 40px;
+            border: 1px solid #fff;
+            font-size: 18px;
+            list-style: none;
+            text-align: center;
+            color: blue;
+        }
+    }
+}
+}
+
+
